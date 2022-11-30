@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\HocKi_2_Nam_3\LapTrinhWWW(Java)\Labs\BTL_WWW_Java_Ver_IV\WWW-2022-Nhom12-websiteCoKhi-rest-server"/>
+			<item value="F:\HocKi_2_Nam_3\LapTrinhWWW(Java)\Labs\BTL_WWW_Java_Ver_IV\WWW-2022-Nhom12-websiteCoKhi"/>
+			<item value="F:\HocKi_2_Nam_3\LapTrinhWWW(Java)\Labs\BTL_WWW_Java_Ver_IV\CreateTableByHibernate"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,53 @@
+body {
+	position: relative;
+	min-height: 100vh;
+}
+
+body::after {
+  content: '';
+  display: block;
+  height: 150px; /* Set same as footer's height */
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+
+.footer-container {
+	background-color: #292c2f;
+	padding:0 40px 0 40px;
+}
+
+.footer-contact__list {
+	list-style: none;
+	padding: 0;
+}
+.footer-contact__item {
+	display: flex;
+	padding: 10px 0 10px 0;
+}
+.footer-contact__item-text {
+	display: block;
+	font-size: 1.3rem;
+	line-height: 3.3rem;
+	font-weight: 400;
+	color: var(--white-color);
+	margin-left: 10px;
+}
+
+.footer-icon {
+	width: 35px;
+    height: 35px;
+}
+
+.footer-contact {
+	color: var(--white-color);
+}
+
+.footer-contact__head {
+	font-weight: 500;
+	font-size:1.4rem;
+}

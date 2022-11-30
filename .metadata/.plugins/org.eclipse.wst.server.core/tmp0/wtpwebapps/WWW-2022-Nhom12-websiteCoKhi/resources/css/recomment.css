@@ -1,0 +1,48 @@
+.container-fluid {
+	background-image:
+		url("/WWW-2022-Nhom12-websiteCoKhi/resources/img/recomment.jpg");
+	padding-top: 35%;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 100%, 500px;
+	height: 570px;
+}
+
+.textRecomment {
+	text-align: center;
+	font-size: 50px;
+	padding-top: 300px;
+	color: white;
+}
+
+.textRecomment .explore {
+	font-size: 18px;
+	padding-top: 170px;
+	color: white;
+}
+
+.textRecommentStudent {
+	font-family: Montserrat;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 0.05em;
+	text-align: center;
+}
+
+.suMenh {
+	font-size: 20px;
+	margin-left: 100px;
+	text-align: justify;
+}
+
+.imgMatTien {
+	height: 300px;
+	padding-left: 100px;
+}
+
+.imgSuMenh {
+	width: 650px;
+	height: 300px;
+	padding-left: 50px;
+}

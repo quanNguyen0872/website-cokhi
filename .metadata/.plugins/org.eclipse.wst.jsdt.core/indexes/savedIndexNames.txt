@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\HocKi_2_Nam_3\LapTrinhWWW(Java)\Labs\BTL_WWW_Java_Ver_IV\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3758377630.index
+2932817281.index
+1264706965.index
+4143044095.index
+2588482599.index
+1228045967.index
+2047903194.index
